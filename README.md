@@ -1,9 +1,3 @@
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahrul-anugrh&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=fahrul-anugrh&theme=radical)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrul-anugrh&layout=compact&theme=radical)
-
 # 👋 Hello, Welcome to My GitHub Dashboard!
 
 ## About Me
@@ -46,6 +40,11 @@ I believe that networking and security technologies are fundamental in today’s
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahruldwianugrah86@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahrulanugrh86)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahrul-anugrh&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fahrul-anugrh&theme=radical)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrul-anugrh&layout=compact&theme=radical)
 
 ---
 
