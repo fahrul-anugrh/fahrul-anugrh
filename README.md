@@ -37,8 +37,11 @@ I believe that networking and security technologies are fundamental in today’s
 
 ## 📫 Contact
 
-- Email: [email@domain.com](mailto:fahruldwianugrah86@gmail.com)
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/fahrulanugrh86)
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahruldwianugrah86@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahrulanugrh86)
+
 
 ---
 
