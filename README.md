@@ -1,50 +1,46 @@
-<p align="center">
-  <img src="https://i.imgur.com/v8jt2f4.gif" width="100%">
-</p>
+# 👋 Halo, Selamat Datang di Dashboard GitHub Saya!
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Halo, saya Fahrul Dwi Anugrah
-</h1>
+## Tentang Saya
 
-<p align="center">
-  Seorang Teknisi Jaringan dan Cloud yang bersemangat dalam membangun dan mengamankan infrastruktur digital.
-</p>
+Saya adalah **mahasiswa Teknik Komputer** di Universitas Andalas. Saat ini, saya sedang fokus mengembangkan skill di bidang:
 
-<br>
+- **Jaringan Komputer**
+- **Keamanan Jaringan**
+- **Cloud Computing**
 
-### 👨‍💻 Tentang Saya
+Saya percaya bahwa teknologi jaringan dan keamanan adalah fondasi penting dalam dunia digital modern. Melalui berbagai proyek dan pembelajaran mandiri, saya terus memperdalam pengetahuan serta keterampilan teknis di bidang ini.
 
-- 🔭 Saat ini saya sedang mendalami **Arsitektur Zero Trust** dan otomasi jaringan menggunakan **Ansible & Terraform**.
-- 🛡️ Fokus utama saya adalah memastikan jaringan tetap **aman, andal, dan efisien**.
-- ☁️ Saya memiliki pengalaman dalam mengelola layanan di **AWS** dan **Google Cloud Platform (GCP)**.
-- 💬 Tanyakan saya tentang **Mikrotik, Cisco, Keamanan Siber, atau arsitektur Cloud**.
-- 📫 Cara menghubungi saya: **[emailanda@contoh.com]**
+---
 
-<br>
+## 🔧 Skill Set
 
-### 🛠️ Keahlian & Teknologi
+| Skill Area                | Tools & Technologies                                                                                         |
+|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| **Network Administration**| Cisco ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white) <br> TP-Link ![TP-Link](https://img.shields.io/badge/-TP--Link-1ABC9C?logo=tp-link&logoColor=white) <br> Switching, Routing, Wireless |
+| **Linux Administration**  | Ubuntu ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white) <br> Raspbian ![Raspbian](https://img.shields.io/badge/-Raspbian-D20F2A?logo=raspberry-pi&logoColor=white) <br> Kali Linux ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kali-linux&logoColor=white) |
+| **Firewall**              | OPNsense ![OPNsense](https://img.shields.io/badge/-OPNsense-F58025?logo=opnsense&logoColor=white)           |
+| **SIEM**                  | Wazuh ![Wazuh](https://img.shields.io/badge/-Wazuh-0078D7?logo=wazuh&logoColor=white)                       |
+| **Network Monitoring**    | Zabbix ![Zabbix](https://img.shields.io/badge/-Zabbix-E2001A?logo=zabbix&logoColor=white) <br> Grafana ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) |
+| **Virtualization**        | VMware ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white) <br> VirtualBox ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white) |
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,cisco,aws,gcp,docker,kubernetes,terraform,ansible,kali,wireshark&theme=dark" />
-  </a>
-</p>
+---
 
-<br>
+## 🚀 Proyek & Aktivitas
 
-### 📊 Statistik GitHub Saya
+- Implementasi jaringan dengan perangkat Cisco & TP-Link
+- Administrasi server berbasis Ubuntu, Raspbian, dan Kali Linux
+- Firewall dan segmentasi jaringan menggunakan OPNsense
+- Monitoring & analisis keamanan jaringan dengan Zabbix, Grafana, dan Wazuh
+- Virtualisasi server dan lab menggunakan VMware & VirtualBox
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_ANDA]&show_icons=true&locale=id&theme=vue-dark&count_private=true" alt="Statistik GitHub Fahrul" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[USERNAME_GITHUB_ANDA]&layout=compact&locale=id&theme=vue-dark" alt="Bahasa Teratas Fahrul" />
-</p>
+---
 
-<br>
+## 📫 Kontak
 
-### 🌐 Hubungi Saya
+- Email: [email@domain.com](mailto:fahruldwianugrah86@gmail.com)
+- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/fahrulanugrh86)
 
-<p align="center">
-<a href="[URL_LINKEDIN_ANDA]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fahrul Dwi Anugrah"/></a>
-<a href="[URL_WEBSITE_PRIBADI_ATAU_BLOG_ANDA]" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hugo&logoColor=white" alt="Portfolio Fahrul"/></a>
-</p>
+---
+
+Terima kasih telah mengunjungi dashboard saya! Jangan ragu untuk melihat-lihat repositori saya atau menghubungi saya untuk kolaborasi dan diskusi seputar jaringan, keamanan, dan cloud computing.
+
